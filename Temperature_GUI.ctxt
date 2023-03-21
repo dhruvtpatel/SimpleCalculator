@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Temperature_GUI
+comment0.text=\r\n\ This\ gui\ converts\ Celsius\ to\ Fahrenheit.\r\n\ \r\n\ @author\ (Dr.\ P.\ Patankar)\ \r\n\ @version\ (5/1/2017)\r\n
+comment1.params=
+comment1.target=Temperature_GUI()
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
